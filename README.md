@@ -34,3 +34,25 @@
 - 100  
 - 200  
 - 500  
+
+###Старт
+<img width="401" height="437" alt="изображение" src="https://github.com/user-attachments/assets/3152f0d9-278b-4cfa-b8c7-fa23bfc425a8" />
+
+###Свечи
+<img width="442" height="462" alt="изображение" src="https://github.com/user-attachments/assets/7279f3f2-fe39-49dc-b307-3c34811dcca4" />
+
+###Стакан
+<img width="435" height="317" alt="изображение" src="https://github.com/user-attachments/assets/998955fb-fa4c-49ba-8124-b05c2646940a" />
+
+###Обьем
+<img width="411" height="286" alt="изображение" src="https://github.com/user-attachments/assets/0729d66e-325c-4756-b2c8-cead160e7ff1" />
+
+##Фьючи
+<img width="409" height="284" alt="изображение" src="https://github.com/user-attachments/assets/fba2e33d-ea5c-4a27-ae84-e312031d68f6" />
+
+###Корреляция
+<img width="437" height="357" alt="изображение" src="https://github.com/user-attachments/assets/3fb2150c-dd01-4206-8c9a-2f3c63ee5f62" />
+
+###Полный отчет
+<img width="449" height="865" alt="изображение" src="https://github.com/user-attachments/assets/39a214a7-d68a-43aa-a710-b5bb70958381" />
+
