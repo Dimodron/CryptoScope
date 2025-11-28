@@ -51,7 +51,7 @@
 
 <img width="411" height="286" alt="изображение" src="https://github.com/user-attachments/assets/0729d66e-325c-4756-b2c8-cead160e7ff1" />
 
-## Фьючи
+### Фьючи
 
 <img width="409" height="284" alt="изображение" src="https://github.com/user-attachments/assets/fba2e33d-ea5c-4a27-ae84-e312031d68f6" />
 
